@@ -1,7 +1,4 @@
-# Password Generator Command line interface
+# Your Awesome Figma
 
 
-To see all commands type:
-
-
-passgen -h
+List of UI/UX Design 
