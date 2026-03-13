@@ -1,4 +1,3 @@
-# Your Awesome Figma
+# Your Awesome Next
 
-
-List of UI/UX Design 
+List of NextJS projects and Resources for learning, building apps for the future.
